@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 price = float(input('Qual o preço do produto? R$ '))
 
 discount = 5  # desconto de 5%

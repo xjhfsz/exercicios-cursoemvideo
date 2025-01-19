@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 from math import trunc
 
 number = float(input('Digite um valor decimal: '))

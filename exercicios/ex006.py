@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[11]:
-
-
 number = int(input('Digite um número: '))
 
 print(f'O dobro de {number} é {number * 2}')  # dobro

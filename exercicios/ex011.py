@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 # para cada 2m² de parede, necessário 1 litro de tinta
 
 height = float(input('Altura da parede (metros): '))  # altura

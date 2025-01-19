@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 money = float(input('Quanto dinheiro você tem na carteira? '))
 
 dolar = 3.27  # valor do dólar

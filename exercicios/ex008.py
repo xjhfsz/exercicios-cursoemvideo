@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 metros = int(input('Digite uma distância em metros: '))
 print(f'A medida de {metros} metros corresponde a:')
 

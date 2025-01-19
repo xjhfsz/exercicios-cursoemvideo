@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 number = int(input('Digite um número para ver a tabuada: '))
 
 print('=' * 15)

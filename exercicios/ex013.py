@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[ ]:
-
-
 salary = float(input('Qual é o salário do funcionário? R$ '))
 
 increase = 15  # aumento de 15%

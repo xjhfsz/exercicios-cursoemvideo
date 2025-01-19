@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[7]:
-
-
 nota1 = float(input('Digite a primeira nota do aluno: '))
 nota2 = float(input('Digite a segunda nota do aluno: '))
 

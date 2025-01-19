@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[4]:
-
-
 price_product = float(input('Digite o preço do produto: R$ '))
 
 while True:

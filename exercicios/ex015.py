@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[6]:
-
-
 print('-' * 7 + ' ALUGUEL DE CARROS ' + '-' * 7)
 
 days = int(input('Quantos dias alugado? '))

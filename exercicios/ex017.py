@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[3]:
-
-
 from math import hypot
+
 
 opposite_leg = float(input('Comprimento do cateto oposto: '))
 adjacent_leg = float(input('Comprimento do cateto adjacente: '))

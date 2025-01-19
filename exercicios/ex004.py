@@ -1,10 +1,5 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[8]:
-
-
 something = input('Digite alguma coisa: ')
+
 print(f'O tipo primitivo dessa coisa é: {type(something)}')
 print(f'Essa coisa só tem espaço? {something.isspace()}')
 print(f'Essa coisa é um número? {something.isnumeric()}')

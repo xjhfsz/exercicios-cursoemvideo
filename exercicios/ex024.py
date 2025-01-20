@@ -1,5 +1,7 @@
 city = str(input('Digite o nome da cidade: ')).strip()
-result = city[:5].upper() == 'SANTO'
+
+# analisa se a string começa com SANTO
+result = 'SANTO' == city[:5].upper()
 
 print('-' * 20)
 print('Analisando a cidade...')

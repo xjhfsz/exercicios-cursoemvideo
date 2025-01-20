@@ -3,7 +3,7 @@ import time
 
 pygame.init()  # inicia o pygame
 
-pygame.mixer.music.load('exercicios/ex021.mp3')  # carrega o arquivo mp3
+pygame.mixer.music.load('ex021.mp3')  # carrega o arquivo mp3
 pygame.mixer.music.play()  # reproduz o arquivo mp3
 
 # versão windows

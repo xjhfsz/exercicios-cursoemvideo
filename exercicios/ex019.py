@@ -1,5 +1,6 @@
 from random import choice
 
+# não precisa definir o tipo, input() sempre retorna string
 name1 = input('Digite o nome do Primeiro aluno: ')
 name2 = input('Digite o nome do Segundo aluno: ')
 name3 = input('Digite o nome do Terceiro aluno: ')
